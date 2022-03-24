@@ -1,0 +1,24 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 500px;
+}
+
+.u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
+  text-shadow: 0 2px 8px rgba(128,128,128,1);
+  font-size: 3.75rem;
+  background-image: none;
+  margin: 70px 92px 60px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-1 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+  }
+}

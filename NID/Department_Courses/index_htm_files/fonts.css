@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Amatic SC';
+  font-weight: 400;
+  font-style: normal;
+  src: url('/fonts/Amatic-SC-regular/Amatic-SC-regular.eot');
+  src: url('/fonts/Amatic-SC-regular/Amatic-SC-regular.eot?#iefix') format('embedded-opentype'),
+       local('Amatic SC'),
+       local('Amatic-SC-regular'),
+       url('/fonts/Amatic-SC-regular/Amatic-SC-regular.woff2') format('woff2'),
+       url('/fonts/Amatic-SC-regular/Amatic-SC-regular.woff') format('woff'),
+       url('/fonts/Amatic-SC-regular/Amatic-SC-regular.ttf') format('truetype'),
+       url('/fonts/Amatic-SC-regular/Amatic-SC-regular.svg#AmaticSC') format('svg');
+}
+
+@font-face {
+  font-family: 'Amatic SC';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/Amatic-SC-700/Amatic-SC-700.eot');
+  src: url('/fonts/Amatic-SC-700/Amatic-SC-700.eot?#iefix') format('embedded-opentype'),
+       local('Amatic SC Bold'),
+       local('Amatic-SC-700'),
+       url('/fonts/Amatic-SC-700/Amatic-SC-700.woff2') format('woff2'),
+       url('/fonts/Amatic-SC-700/Amatic-SC-700.woff') format('woff'),
+       url('/fonts/Amatic-SC-700/Amatic-SC-700.ttf') format('truetype'),
+       url('/fonts/Amatic-SC-700/Amatic-SC-700.svg#AmaticSC') format('svg');
+}
+
+@font-face {
+  font-family: 'Open Sans';
+  font-weight: 700;
+  font-style: normal;
+  src: url('/fonts/Open-Sans-700/Open-Sans-700.eot');
+  src: url('/fonts/Open-Sans-700/Open-Sans-700.eot?#iefix') format('embedded-opentype'),
+       local('Open Sans Bold'),
+       local('Open-Sans-700'),
+       url('/fonts/Open-Sans-700/Open-Sans-700.woff2') format('woff2'),
+       url('/fonts/Open-Sans-700/Open-Sans-700.woff') format('woff'),
+       url('/fonts/Open-Sans-700/Open-Sans-700.ttf') format('truetype'),
+       url('/fonts/Open-Sans-700/Open-Sans-700.svg#OpenSans') format('svg');
+}
+
+
